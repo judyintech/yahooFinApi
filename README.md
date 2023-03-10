@@ -14,3 +14,6 @@ Yahoo_fin can be installed using pip:
 * Print stock info (delisted stock not supported)
     
   `python3 yahoofinapi/stock_info.py`
+
+## For delisted stocks
+* https://finance.yahoo.com/news/premium-plus-feature-historical-financial-201155209.html
